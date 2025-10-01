@@ -10,4 +10,5 @@ matplotlib
 opencv-python
 fastapi
 uvicorn
+gunicorn
 
